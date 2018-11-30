@@ -9,7 +9,8 @@
 * 统计不同RNA类型mapped reads的长度分布
 ### counts file scripts
 my own `length_ratio.sh` creats files do not match format of other sample's counts results, but my plot scripts work on my counts data
-to match format of other sample's counts result, need another script `read.sh` to retrieve length counts.
+
+to match format of other sample's counts result, we need another script `read.sh` to retrieve length counts.
 
 * why must match?
 
