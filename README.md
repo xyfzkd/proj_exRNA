@@ -23,3 +23,7 @@ may not work well
 `construct_mx.sh`
 
 five files containing reads counts of different RNA have to be merged to a some-column-drop one provided in cnode.
+## matix processing
+...
+## feature selection
+...
